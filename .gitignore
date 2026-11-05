@@ -1,0 +1,10 @@
+app/build/
+app/eboot.bin
+app/eboot.bin.oelf
+app/.ps4-linux-fself-method
+app/pkg.gp4
+app/sce_sys/param.sfo
+app/*.pkg
+app/IV0000-*.pkg
+.DS_Store
+*.oelf
